@@ -1,0 +1,7 @@
+{
+    "name": "com.tw.common-components",
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "displayName": "Common Components",
+    "description": "Simple Unity components intended for prototyping"
+}
