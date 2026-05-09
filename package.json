@@ -3,5 +3,9 @@
     "version": "1.0.1",
     "unity": "6000.0",
     "displayName": "Common Components",
-    "description": "Simple Unity components intended for prototyping"
+    "description": "Simple Unity components intended for prototyping",
+    "author": {
+        "name": "Tom Wilhelm",
+        "url": "https://www.tom-wilhelm.com"
+    }
 }
